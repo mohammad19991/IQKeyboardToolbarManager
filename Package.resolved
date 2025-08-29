@@ -12,10 +12,10 @@
     {
       "identity" : "iqkeyboardtoolbar",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/hackiftekhar/IQKeyboardToolbar.git",
+      "location" : "https://github.com/mohammad19991/IQKeyboardToolbar.git",
       "state" : {
-        "revision" : "78ccb63857a03334ecfcba566f8f504015965ee3",
-        "version" : "1.1.1"
+        "revision" : "267e6724ef834ad4365575e29f226965d0f3e8f4",
+        "version" : "1.1.2"
       }
     },
     {
