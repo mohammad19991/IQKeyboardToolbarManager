@@ -21,10 +21,10 @@
     {
       "identity" : "iqtextinputviewnotification",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/hackiftekhar/IQTextInputViewNotification",
+      "location" : "https://github.com/mohammad19991/IQTextInputViewNotification.git",
       "state" : {
-        "revision" : "4347f8eb6bf8880014606684105e447229cc29ea",
-        "version" : "1.0.8"
+        "revision" : "ebb8ff6ef2d9f5386c5b511c7939618ac1d23e02",
+        "version" : "1.0.9"
       }
     }
   ],
